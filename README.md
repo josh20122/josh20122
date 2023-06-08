@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Joshua</h1>
 <h3 align="center">Full Stack Laravel developer from Kenya</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mostfa16&label=Profile%20views&color=0e75b6&style=flat" alt="mostfa16" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=josh20122&label=Profile%20views&color=0e75b6&style=flat" alt="mostfa16" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josh20122" alt="mostfa16" /></a> </p>
 
