@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Ecommerce_phones](https://github.com/mostfa16/Ecommerce_phones)
 
-### Blogs posts
+<!-- ### Blogs posts -->
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
